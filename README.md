@@ -1,10 +1,11 @@
 # Update 2023-11-11
 Seems original host no longer has these files.
 
+| | |
 |---|---|
-wgt95_sc.zip | Direct Draw
-wgtlib.zip | Pascal
-LOST TO TIME? | Watcom C
+| wgt95_sc.zip | Direct Draw|
+| wgtlib.zip | Pascal
+| LOST TO TIME? | Watcom C|
 
 # WGT
 WGT - WordUp Graphics Toolkit by Egerter Software
